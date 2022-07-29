@@ -1,0 +1,45 @@
+﻿@page "/Cars/EditCar"
+
+@using RacingCars.Interfaces
+@using RacingCars.VMs
+
+<h3>Edit Car</h3>
+<EditForm Model="@car" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <p>
+      <label>
+            Name
+            <br />
+            <InputText class="form-control" placeholder="Insert car name"  @bind-Value="car.Name" />
+            <ValidationMessage For="@(() => car.Name)"></ValidationMessage>
+        </label>
+    </p>
+    <p>
+        <label>
+            Brand
+            <br />
+            <InputText class="form-control" placeholder="Insert car brand" @bind-Value="car.Brand" />
+            <ValidationMessage For="@(() => car.Brand)"></ValidationMessage>
+        </label>
+    </p>
+    <p>
+        <label>
+            Mileage
+            <br />
+            <InputNumber class="form-control" @bind-Value="car.Mileage" />
+            <ValidationMessage For="@(() => car.Mileage)"></ValidationMessage>
+        </label>
+    </p>
+    <p>
+        <label>
+            Date of Service
+            <br />
+            <SfDatePicker placeholder="dd/mm/yyyy" Format="dd.MM.yyyy" @bind-Value="@car.DateOfService"></SfDatePicker>
+            <ValidationMessage For="@(() => car.DateOfService)"></ValidationMessage>
+        </label>
+    </p>
+
+   <SfButton Content="Edit"></SfButton>
+   <SfButton Content="Cancel" OnClick="@Navigate"></SfButton>
+
+</EditForm>

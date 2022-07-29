@@ -1,0 +1,47 @@
+﻿@page "/Pilots/Index"
+
+@using RacingCars.Interfaces;
+@using RacingCars.VMs;
+<h3 style="text-align:center">Pilots</h3>
+
+<SfGrid DataSource="@pilots" TValue="PilotVM" AllowFiltering="true" Toolbar="@Toolbaritems">
+    
+    <GridEvents RowSelected="RowSelectHandler"  RowDeselected="DeselectHandler" OnToolbarClick="OnClicked" TValue="PilotVM"></GridEvents>
+    <GridEditSettings AllowEditOnDblClick="false"  AllowAdding="true" AllowDeleting="true" AllowEditing="true" Mode="EditMode.Dialog"></GridEditSettings>
+   <GridFilterSettings Type="Syncfusion.Blazor.Grids.FilterType.CheckBox"></GridFilterSettings>
+    <GridColumns>
+        <GridColumn Field="Id" IsPrimaryKey="true" IsIdentity="true" Visible="false"></GridColumn>
+        <GridColumn Field="Name" Width="150"></GridColumn>
+        <GridColumn Field="Age" Width="150"></GridColumn>
+        <GridColumn Field="Nationality" Width="150"></GridColumn>
+        <GridColumn Field="Points" Width="150"></GridColumn>
+    </GridColumns>
+</SfGrid>
+<SfDialog Width="300px"  Height="350px" EnableResize="true" AllowDragging="true" IsModal="true" CloseOnEscape="false" AllowPrerender="true" @bind-Visible="@VisibilityAddDialog">
+    <RacingCars.Pages.Pilots.AddPilot @ref="addPage"></RacingCars.Pages.Pilots.AddPilot>
+</SfDialog>
+<SfDialog Width="300px"  Height="350px" EnableResize="true" AllowDragging="true" IsModal="true" CloseOnEscape="false" AllowPrerender="true" @bind-Visible="@VisibilityEditDialog">
+    <RacingCars.Pages.Pilots.EditPilot Pilot="@selectedPilot" @ref="editPage"></RacingCars.Pages.Pilots.EditPilot>
+</SfDialog>
+
+<SfDialog Width="300px"  Height="170px" AllowDragging="true" IsModal="true" CloseOnEscape="false" AllowPrerender="true" @bind-Visible="@VisibilityDeleteDialog">
+   <DialogTemplates>
+    <Header>Delete this pilot</Header>
+    <Content>Are you sure you want to delete this pilot?</Content>
+    </DialogTemplates>
+    <DialogButtons>
+        <DialogButton Content="Delete" IsPrimary="true" OnClick="@DeletePilot" />
+        <DialogButton Content="Cancel" IsPrimary="true" OnClick="@CancelDelete"/>
+    </DialogButtons>
+</SfDialog>
+
+<SfDialog Width="300px" Height="170px" AllowDragging="true" IsModal="true" CloseOnEscape="false" AllowPrerender="true" @bind-Visible="@VisibilityErrorDialog">
+    <DialogTemplates>
+    <Header>Error</Header>
+    <Content>There is nothing selected!</Content>
+    </DialogTemplates>
+    <DialogButtons>
+        <DialogButton Content="Ok" OnClick="ErrorClick"/>
+    </DialogButtons>
+</SfDialog>
+

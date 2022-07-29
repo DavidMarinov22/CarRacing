@@ -1,0 +1,42 @@
+﻿@page "/Pilots/EditPilot"
+
+
+<h3>Edit Pilot</h3>
+<EditForm Model="@pilot" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <p>
+      <label>
+            Name
+            <br />
+            <InputText class="form-control" @bind-Value="pilot.Name" />
+            <ValidationMessage For="@(() => pilot.Name)"></ValidationMessage>
+        </label>
+    </p>
+    <p>
+        <label>
+            Age
+            <br />
+            <InputNumber class="form-control" @bind-Value="pilot.Age" />
+            <ValidationMessage For="@(() => pilot.Age)"></ValidationMessage>
+        </label>
+    </p>
+    <p>
+        <label>
+            Nationality
+            <br />
+            <InputSelect class="form-select form-select-sm" @bind-Value="pilot.Nationality">
+                <option disabled selected>Choose nationality</option>
+                @foreach (var nationality in nationalities)
+                {
+                    <option value="@nationality">@nationality</option>
+                }
+            </InputSelect>
+            <ValidationMessage For="@(() => pilot.Nationality)"></ValidationMessage>
+        </label>
+    </p>
+  
+
+   <SfButton Content="Edit"></SfButton>
+   <SfButton Content="Cancel" OnClick="@Navigate"></SfButton>
+
+</EditForm>

@@ -1,0 +1,13 @@
+﻿@page "/TopRacers"
+
+@using RacingCars.Interfaces;
+@using RacingCars.VMs;
+<h3 style="text-align:center">Top Racers</h3>
+<SfGrid DataSource="@pilots" AllowSorting="true" TValue="PilotVM">
+    <GridColumns>
+        <GridColumn Field="Name" Width="150"></GridColumn>
+        <GridColumn Field="Points" Width="150"></GridColumn>
+    </GridColumns>
+</SfGrid>  
+
+

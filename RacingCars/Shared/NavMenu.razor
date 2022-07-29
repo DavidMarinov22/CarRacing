@@ -1,0 +1,49 @@
+﻿<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">Car Racing</a>
+        <button class="navbar-toggler @NavButtonCssClass" type="button" aria-controls="navbarCollapse"
+            aria-label="Toggle navigation" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse @NavBarCssClass" id="navbarCollapse" @onclick="ToggleNavMenu">
+            <ul class="navbar-nav flex-grow-1">
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                        <span class="oi oi-home" aria-hidden="true"></span> Home
+                    </NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="Races/Index">
+                        <span class="oi oi-list" aria-hidden="true"></span> Start a race
+                    </NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="TopRacers">
+                        <span class="oi oi-list" aria-hidden="true"></span> Top Racers
+                    </NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="Pilots/Index">
+                        <span class="oi oi-people" aria-hidden="true"></span> Pilots
+                    </NavLink>
+                </li>
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="Cars/Index">
+                        <span class="oi oi-list" aria-hidden="true"></span> Cars
+                    </NavLink>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+@code {
+    private bool collapseNavMenu = true;
+    private string? NavBarCssClass => collapseNavMenu ? null : "show";
+    private string? NavButtonCssClass => collapseNavMenu ? "collapsed" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

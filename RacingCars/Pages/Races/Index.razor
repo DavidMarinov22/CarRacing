@@ -1,0 +1,116 @@
+﻿@page "/Races/Index"
+
+<h1 style="text-align:center">Start a Race</h1>
+
+
+<EditForm Model="@race" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <div id="wrapper">
+        <div id="div1">
+            <p>
+              <label>
+                    <h4 style="text-align:left"><strong>Track</strong></h4>
+                    <InputSelect  class="form-select form-select-sm" @bind-Value="race.Track">
+                        <option>Choose a track</option>
+                        @foreach (var track in tracks)
+                        {
+                            <option value="@track">@track</option>
+                        }
+                    </InputSelect>
+                    <ValidationMessage For="@(() => race.Track)"></ValidationMessage>
+                </label>
+            </p>
+        </div> 
+    
+        <div id="div2">
+            <p>
+              <label>
+                  <h4 style="text-align:left"><strong>Duration</strong></h4>
+                    <InputText placeholder="Duration of the competition"  @bind-Value="race.Duration" />
+                    <ValidationMessage For="@(() => race.Duration)"></ValidationMessage>
+                </label>
+            </p>
+        </div>
+        </div>
+     <div id="wrapper">
+        <div id="div1">
+            <p>
+              <label>
+                    <h4 style="text-align:left"><strong>Pilot</strong></h4>
+                    <InputSelect class="form-select form-select-sm" @bind-Value="race.IdPilot">
+                        <option value="0" disabled selected>Choose a pilot</option>
+                        @foreach (var pilot in pilots)
+                        {
+                            <option value="@pilot.Id">@pilot.Name</option>
+                        }
+                    </InputSelect>
+                </label>
+            </p>
+        </div>
+    
+        <div id="div2">
+            <p>
+                <label>
+                    <h4 style="text-align:left"><strong>Mileage</strong></h4>
+                    <InputNumber @bind-Value="race.Mileage" />
+                    <ValidationMessage For="@(() => race.Mileage)"></ValidationMessage>
+                </label>
+            </p>
+        </div>
+     </div>
+     <div id="wrapper">
+        <div id="div1">
+            <p>
+              <label>
+                    <h4 style="text-align:left"><strong>Car</strong></h4>
+                    <InputSelect class="form-select form-select-sm" @bind-Value="race.IdCar">
+                        <option value="0" disabled selected>Choose a car</option>
+                        @foreach (var car in cars)
+                        {
+                            <option value="@car.Id">@car.Name</option>
+                        }
+                    </InputSelect>
+                </label>
+            </p>
+        </div>
+        <div id="div2">
+            <p>
+                <label>
+                    <h4 style="text-align:left"><strong>Points</strong></h4>
+                    <InputNumber @bind-Value="race.Points" />
+                    <ValidationMessage For="@(() => race.Points)"></ValidationMessage>
+                </label>
+            </p>
+        </div>
+    </div>
+    <div id="wrapper">
+        <div id="div3">
+            <p>
+                <label>
+                    <h4 style="text-align:center"><strong>Date of Service</strong></h4>
+                    <SfDatePicker placeholder="dd/mm/yyyy" Format="dd.MM.yyyy" @bind-Value="@race.DateOfCompetition"></SfDatePicker>
+                    <ValidationMessage For="@(() => race.DateOfCompetition)"></ValidationMessage>
+                </label>
+            </p>
+        </div>
+    </div>
+    
+    <div id="wrapper">
+        <div id="div3">
+            <SfButton Content="Start the race!"></SfButton>
+        </div>
+    </div>
+
+</EditForm>
+
+
+<SfDialog Width="300px"  Height="320px" AllowDragging="true" IsModal="true" CloseOnEscape="false" AllowPrerender="true" @bind-Visible="@VisibilityInfoDialog">
+    <DialogTemplates>
+    <Header>The race is finished!</Header>
+    <Content>The pilot @selectedPilot.Name has gained @race.Points points on @race.Track track with @selectedCar.Brand @selectedCar.Name car!</Content>
+    </DialogTemplates>
+    <DialogButtons>
+        <DialogButton Content="Ok" IsPrimary="true" OnClick="@OkClicked"/>
+    </DialogButtons>
+</SfDialog>
+

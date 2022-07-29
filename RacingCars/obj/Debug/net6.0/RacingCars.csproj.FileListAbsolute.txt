@@ -1,0 +1,344 @@
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\appsettings.Development.json
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\appsettings.json
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\RacingCars.staticwebassets.runtime.json
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\RacingCars.exe
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\RacingCars.deps.json
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\RacingCars.runtimeconfig.json
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\RacingCars.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\RacingCars.pdb
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.csproj.AssemblyReference.cache
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.AssemblyInfoInputs.cache
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.AssemblyInfo.cs
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.csproj.CoreCompileInputs.cache
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.MvcApplicationPartsAssemblyInfo.cache
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.RazorAssemblyInfo.cache
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.RazorAssemblyInfo.cs
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\staticwebassets.build.json
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\staticwebassets.development.json
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\scopedcss\bundle\RacingCars.styles.css
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\scopedcss\projectbundle\RacingCars.bundle.scp.css
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.dll
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\refint\RacingCars.dll
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.pdb
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.genruntimeconfig.cache
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\ref\RacingCars.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Humanizer.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DAVID\C#\BlazorApps\RacingCars\obj\Debug\net6.0\RacingCars.csproj.CopyComplete
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Calendars.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Grids.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Lists.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Navigations.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.ExcelExport.Net.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\Syncfusion.PdfExport.Net.dll
+D:\DAVID\C#\BlazorApps\RacingCars\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\appsettings.Development.json
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\appsettings.json
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.staticwebassets.runtime.json
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.exe
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.deps.json
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.runtimeconfig.json
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.pdb
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Humanizer.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Calendars.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Grids.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Lists.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Navigations.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.ExcelExport.Net.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.PdfExport.Net.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.csproj.AssemblyReference.cache
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.GeneratedMSBuildEditorConfig.editorconfig
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.AssemblyInfoInputs.cache
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.AssemblyInfo.cs
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.csproj.CoreCompileInputs.cache
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.MvcApplicationPartsAssemblyInfo.cache
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.RazorAssemblyInfo.cache
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.RazorAssemblyInfo.cs
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\staticwebassets.build.json
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\staticwebassets.development.json
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\scopedcss\bundle\RacingCars.styles.css
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\scopedcss\projectbundle\RacingCars.bundle.scp.css
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.csproj.CopyComplete
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\refint\RacingCars.dll
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.pdb
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.genruntimeconfig.cache
+D:\A Programming\GitHub Desktop\BlazorTest\RacingCars\obj\Debug\net6.0\ref\RacingCars.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\appsettings.Development.json
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\appsettings.json
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.staticwebassets.runtime.json
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.exe
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.deps.json
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.runtimeconfig.json
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\RacingCars.pdb
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Humanizer.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Calendars.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Grids.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Lists.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Navigations.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.ExcelExport.Net.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\Syncfusion.PdfExport.Net.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.csproj.AssemblyReference.cache
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.AssemblyInfoInputs.cache
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.AssemblyInfo.cs
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.csproj.CoreCompileInputs.cache
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.MvcApplicationPartsAssemblyInfo.cache
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.RazorAssemblyInfo.cache
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.RazorAssemblyInfo.cs
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\staticwebassets.build.json
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\staticwebassets.development.json
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\scopedcss\bundle\RacingCars.styles.css
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\scopedcss\projectbundle\RacingCars.bundle.scp.css
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.csproj.CopyComplete
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\refint\RacingCars.dll
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.pdb
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\RacingCars.genruntimeconfig.cache
+D:\DAVID\GitDesktop\BlazorTest\RacingCars\obj\Debug\net6.0\ref\RacingCars.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\appsettings.Development.json
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\appsettings.json
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\RacingCars.staticwebassets.runtime.json
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\RacingCars.exe
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\RacingCars.deps.json
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\RacingCars.runtimeconfig.json
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\RacingCars.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\RacingCars.pdb
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Humanizer.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Calendars.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Grids.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Lists.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Navigations.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Blazor.Themes.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.ExcelExport.Net.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\Syncfusion.PdfExport.Net.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.csproj.AssemblyReference.cache
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.AssemblyInfoInputs.cache
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.AssemblyInfo.cs
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.csproj.CoreCompileInputs.cache
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.MvcApplicationPartsAssemblyInfo.cache
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.RazorAssemblyInfo.cache
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.RazorAssemblyInfo.cs
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\staticwebassets.build.json
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\staticwebassets.development.json
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\scopedcss\bundle\RacingCars.styles.css
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\scopedcss\projectbundle\RacingCars.bundle.scp.css
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.csproj.CopyComplete
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\refint\RacingCars.dll
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.pdb
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\RacingCars.genruntimeconfig.cache
+D:\DAVID\GitDesktop\CarRacing\RacingCars\obj\Debug\net6.0\ref\RacingCars.dll

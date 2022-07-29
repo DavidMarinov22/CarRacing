@@ -1,0 +1,51 @@
+﻿@page "/Cars/Index"
+
+@using RacingCars.Interfaces
+@using RacingCars.Models
+@using RacingCars.VMs
+@using Syncfusion.Blazor.Navigations
+<h3 style="text-align:center">Cars</h3>
+<SfGrid DataSource="@cars" AllowFiltering="true" TValue="Car" Toolbar="@Toolbaritems">
+    
+    <GridEvents RowSelected="RowSelectHandler"  RowDeselected="DeselectHandler" OnToolbarClick="OnClicked" TValue="Car"></GridEvents>
+    <GridEditSettings AllowEditOnDblClick="false"  AllowAdding="true" AllowDeleting="true" AllowEditing="true" Mode="EditMode.Dialog"></GridEditSettings>
+   <GridFilterSettings Type="Syncfusion.Blazor.Grids.FilterType.CheckBox"></GridFilterSettings>
+     <GridColumns>
+        <GridColumn Field="Id" IsPrimaryKey="true" IsIdentity="true" Visible="false"></GridColumn>
+        <GridColumn Field="Name" Width="150"></GridColumn>
+        <GridColumn Field="Brand" Width="150"></GridColumn>
+        <GridColumn Field="Mileage" Width="150"></GridColumn>
+        <GridColumn Field="DateOfService" Width="150"></GridColumn>
+    </GridColumns>
+</SfGrid>
+
+
+<SfDialog Width="350px"  Height="400px" EnableResize="true" AllowDragging="true" IsModal="true" CloseOnEscape="false" AllowPrerender="true" @bind-Visible="@VisibilityEditDialog">
+    <RacingCars.Pages.Cars.EditCar Car="@selectedCar" @ref="editPage"></RacingCars.Pages.Cars.EditCar>
+</SfDialog>
+
+<SfDialog Width="300px"  Height="170px" AllowDragging="true" IsModal="true" CloseOnEscape="false" AllowPrerender="true" @bind-Visible="@VisibilityDeleteDialog">
+   <DialogTemplates>
+    <Header>Delete this pilot</Header>
+    <Content>Are you sure you want to delete this pilot?</Content>
+    </DialogTemplates>
+    <DialogButtons>
+        <DialogButton Content="Delete" IsPrimary="true" OnClick="@DeletePilot" />
+        <DialogButton Content="Cancel" IsPrimary="true" OnClick="@CancelDelete"/>
+    </DialogButtons>
+</SfDialog>
+
+<SfDialog Width="300px" Height="170px" AllowDragging="true" IsModal="true" CloseOnEscape="false" AllowPrerender="true" @bind-Visible="@VisibilityErrorDialog">
+    <DialogTemplates>
+    <Header>Error</Header>
+    <Content>There is nothing selected!</Content>
+    </DialogTemplates>
+    <DialogButtons>
+        <DialogButton Content="Ok" OnClick="ErrorClick"/>
+    </DialogButtons>
+</SfDialog>
+
+<SfDialog Width="350px" Height="450px" EnableResize="true" AllowDragging="true" IsModal="true" CloseOnEscape="false" AllowPrerender="true" @bind-Visible="@VisibilityAddDialog">
+   <RacingCars.Pages.Cars.AddCar @ref="addPage"></RacingCars.Pages.Cars.AddCar>
+</SfDialog>
+
