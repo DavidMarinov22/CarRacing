@@ -5,6 +5,7 @@ using RacingCars.Data;
 using RacingCars.Interfaces;
 using RacingCars.Services;
 using Syncfusion.Blazor;
+using Syncfusion.Licensing;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<DBContext>(options =>
@@ -17,6 +18,7 @@ builder.Services.AddScoped<ICarService, CarService>();
 builder.Services.AddScoped<IRaceService, RaceService>();
 builder.Services.AddSingleton<GridState>();
 builder.Services.AddSyncfusionBlazor(options => { options.IgnoreScriptIsolation = true; });
+SyncfusionLicenseProvider.RegisterLicense("MTQ3NTU3MUAzMjMxMmUzMTJlMzMzNWdhQnEzc3RYb2xLN0RnYk1EWFU2RFE5U2xHVUdPd2N3cEtNb0NqSEtDSUU9");
 
 var app = builder.Build();
 

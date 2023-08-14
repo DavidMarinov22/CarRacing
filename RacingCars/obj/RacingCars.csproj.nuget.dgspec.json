@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DAVID\\GitDesktop\\CarRacing\\RacingCars\\RacingCars.csproj": {}
+    "D:\\CODES\\CarRacing\\RacingCars\\RacingCars.csproj": {}
   },
   "projects": {
-    "D:\\DAVID\\GitDesktop\\CarRacing\\RacingCars\\RacingCars.csproj": {
+    "D:\\CODES\\CarRacing\\RacingCars\\RacingCars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DAVID\\GitDesktop\\CarRacing\\RacingCars\\RacingCars.csproj",
+        "projectUniqueName": "D:\\CODES\\CarRacing\\RacingCars\\RacingCars.csproj",
         "projectName": "RacingCars",
-        "projectPath": "D:\\DAVID\\GitDesktop\\CarRacing\\RacingCars\\RacingCars.csproj",
-        "packagesPath": "C:\\Users\\Dimitar\\.nuget\\packages\\",
-        "outputPath": "D:\\DAVID\\GitDesktop\\CarRacing\\RacingCars\\obj\\",
+        "projectPath": "D:\\CODES\\CarRacing\\RacingCars\\RacingCars.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "D:\\CODES\\CarRacing\\RacingCars\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dimitar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -103,7 +105,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -115,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
